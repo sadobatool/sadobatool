@@ -3,7 +3,7 @@
 👯 I'm open to collaborating with clients and teams on exciting and impactful projects.<br>
 🤝 I'm looking to connect with recruiters and industry professionals to showcase my skills and explore new opportunities.<br>
 🌱 I'm continuously learning and sharpening my expertise to become a specialist in software development and AI.<br>
-📫 Reach me at: **your.email@example.com**<br>
+📫 Reach me at: **sadia.batool797@gmail.com**<br>
 💬 Always open to discussing new ideas, collaborations, and opportunities.<br>
 
 

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working a full stack developer<br>👯 I’m looking to collaborate with different clients<br>🤝 I’m looking for help with gibving my skills to recruiters<br>🌱 I’m currently learning how to get expert in my field<br>
+🔭I'm currently working as a Full-Stack Developer, building scalable and user-centric applications.<br>👯 I'm open to collaborating with clients and teams on exciting and impactful projects.<br>🤝I'm looking to connect with recruiters and industry professionals to showcase my skills and explore new opportunities.<br>🌱 I'm continuously learning and sharpening my expertise to become a specialist in my field of software development and AI.<br>
 
 
 # 💻 Tech Stack:
